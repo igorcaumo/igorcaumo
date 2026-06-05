@@ -67,6 +67,29 @@
 
 <br/>
 
+<!-- Setup / PC -->
+## 💻 Meu Setup
+
+| Componente | Especificação |
+|------------|---------------|
+| 🧠 **Processador** | AMD Ryzen 9 9950X |
+| 🔌 **Placa-mãe** | ASUS X670 TUF Gaming Plus BR |
+| 🎮 **Placa de Vídeo** | ASUS TUF RTX 4070 Ti 12GB |
+| 🖥️ **Gabinete** | Thermaltake View 71 TG Black |
+| 🧩 **Memória RAM** | 64GB (4x 16GB) Corsair Vengeance 6400MHz |
+| 💾 **Armazenamento** | Samsung 9100 Pro 2TB • 2x ADATA XPG 2TB • Hikvision M.2 1TB • Netac 2TB |
+| ❄️ **Cooler** | 13x Teucer RGB |
+| 💧 **Water Cooler** | PCYes Nix2 |
+| ⚡ **Fonte** | XPG 850W 80+ Gold |
+| 🖵 **Monitores** | 3x LG 27" UltraGear 144Hz |
+| ⌨️ **Teclado** | Redragon K618 |
+| 🖱️ **Mouse** | Redragon Storm Pro |
+| 🎧 **Headset** | Redragon H510 |
+| 🎙️ **Microfone** | HyperX QuadCast RGB |
+| 🪑 **Cadeira** | DT3 |
+
+<br/>
+
 <!-- Estatísticas do GitHub -->
 ## 📊 Estatísticas do GitHub
 
