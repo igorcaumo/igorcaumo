@@ -25,8 +25,27 @@
 
 - 🎓 Cursando **Engenharia da Computação** na Uninter
 - 🎮 **FiveM Developer** na FivemPro Store
+- 🏢 Fundador da **HyperTech** — desenvolvimento de sistemas
 - 🌎 Brasil
 - 💬 Fale comigo no [Discord](https://discord.gg/dcsu2ZVb3J)
+
+<br/>
+
+<!-- Meus sites -->
+## 🌐 Meus Projetos & Sites
+
+<div align="center">
+  <a href="https://www.fivempro.dev.br/">
+    <img src="https://img.shields.io/badge/FivemPro_Store-D32F2F?style=for-the-badge&logo=rockstargames&logoColor=white" alt="FivemPro Store" />
+  </a>
+  <a href="https://www.hypertech.dev.br/">
+    <img src="https://img.shields.io/badge/HyperTech_Sistemas-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HyperTech Sistemas" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>🛒 <a href="https://www.fivempro.dev.br/">FivemPro Store</a> — scripts e recursos para FiveM &nbsp;•&nbsp; 💻 <a href="https://www.hypertech.dev.br/">HyperTech</a> — desenvolvimento de sistemas sob medida</sub>
+</div>
 
 <br/>
 
@@ -52,12 +71,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcaumo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcaumo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcaumo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcaumo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcaumo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcaumo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -66,7 +85,7 @@
 ## 📈 Atividade
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorcaumo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorcaumo&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
 </div>
 
 <!-- Animação da cobrinha (gerada pelo GitHub Actions) -->
